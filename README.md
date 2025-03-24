@@ -12,7 +12,7 @@ My journey through life as a digital native has developped into a passion for cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ARP cache poisoning and MITM attacks          | <a href="https://google.com">Ethical Hacking Lab</a>|
+| ARP cache poisoning and MITM attacks          | <a href="https://github.com/Biriteye/Ethical-Hacking-Lab">Ethical Hacking Lab</a>|
 
 ## Certifications
 <div>
@@ -20,4 +20,4 @@ My journey through life as a digital native has developped into a passion for cy
 </div>
 
 ## Projects
-- <a href="https://google.com">Ethical Hacking Lab</a>
+- <a href="https://github.com/Biriteye/Ethical-Hacking-Lab">Ethical Hacking Lab</a>
