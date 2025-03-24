@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Serge Biriteye
+<a href="https://linkedin.com/in/biriteye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Biriteye/Biriteye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a recent graduate and with a strong foundation in information security and I'm passionate about solving complex security challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey through life as a digital native has developped into a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| ARP cache poisoning and MITM attacks          | <a href="https://google.com">Ethical Hacking Lab</a>|
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- <a href="https://google.com">Ethical Hacking Lab</a>
