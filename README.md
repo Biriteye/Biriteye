@@ -12,12 +12,12 @@ My journey through life as a digital native has developped into a passion for cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ARP cache poisoning and MITM attacks          | <a href="https://github.com/Biriteye/Ethical-Hacking-Lab">Ethical Hacking Lab</a>|
-
+| Ethical Hacking          | <a href="https://github.com/Biriteye/Ethical-Hacking-Lab">Ethical Hacking Lab</a>|
+| Windows Access Control                        | <a href="https://github.com/Biriteye/Ethical-Hacking-Lab">Ethical Hacking Lab</a>|
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
-- <a href="https://github.com/Biriteye/Ethical-Hacking-Lab">Ethical Hacking Lab</a>
+- <a href="https://github.com/Biriteye/Ethical-Hacking-Lab/blob/main/ARP%20cache%20poisoning%20and%20MITM%20attacks.md">ARP cache poisoning and MITM attack</a>
