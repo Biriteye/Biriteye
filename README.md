@@ -1,4 +1,4 @@
-# Hello, I'm Serge Biriteye
+# Hello, I'm Serge,
 <a href="https://linkedin.com/in/biriteye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -16,7 +16,7 @@ My journey through life as a digital native has developped into a passion for cy
 | Windows Access Control                        | <a href="https://github.com/Biriteye/Windows-Access-Control-Labs/blob/main/Access%20Control.md">Access Control Lab</a>|
 ## Certifications
 <div>
-<img src="https://i.postimg.cc/zvjFwbyf/Security-Plus-Logo-Certified-CE.jpg" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
